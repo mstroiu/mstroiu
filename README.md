@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello there,
+My name is Marian and I'm a self-taught Front-End developer passionate about developing pixel-perfect and functional UI that works seamlessly across multiple devices & platforms. 📱💻
 
 <!--
 **mstroiu/mstroiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
